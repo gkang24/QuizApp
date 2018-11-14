@@ -1,0 +1,42 @@
+body{
+  font-family: 'Courier New', Courier, monospace, sans-serif;
+  text-align: center;
+}
+
+.logo {
+  width: 175px;
+  height: 117px;
+}
+.display, .giphy-embed {
+  max-width: 100%;
+  width: 300px;
+}
+
+.intro-line{
+  font-weight: bold;
+  padding: 10px;
+}
+
+.answers {
+  text-align: left;
+  display: inline-block;
+}
+
+button{
+  padding: 15px;
+  border: 1px solid black;
+  font-size: 15px;
+  background-color: lavender;
+  font-family: 'Courier New', Courier, monospace, sans-serif;
+  margin: 30px;
+}
+
+main {
+  padding: 30px;
+}
+
+.score {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
